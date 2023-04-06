@@ -36,9 +36,9 @@ public class Manager {
 //        return job;
 //    }
 
-    public void setJob(String job) {
-        this.job = job;
-    }
+//    public void setJob(String job) {
+//        this.job = job;
+//    }
 
     public String display() {
 

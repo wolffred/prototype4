@@ -1,6 +1,6 @@
 public interface Prototype {
 
-    public Worker clone();
+    public Object clone();
 
 
 }
